@@ -1,1 +1,0 @@
-khanne's react eslint config package
