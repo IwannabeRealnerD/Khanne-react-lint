@@ -62,5 +62,4 @@ module.exports = {
       typescript: {},
     },
   },
-  // ignorePatterns: ["next.config.js", ".eslintrc.js"],
 };
