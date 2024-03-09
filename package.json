@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-khanne-react-lint",
+  "name": "eslint-config-khanne-react",
   "version": "0.0.6",
   "description": "",
   "main": "index.js",
